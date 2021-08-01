@@ -1,0 +1,1 @@
+# Simple-tricks-for-Debugging-Pipes-within-magrittr-base-R-or-ggplot2-
